@@ -1,7 +1,7 @@
 # User Management System
 
-## Framworks and languages used
-* Spring
+## Frameworks and languages used
+* SpringBoot
 * Java
 
 ## Data Flow
