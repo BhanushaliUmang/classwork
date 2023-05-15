@@ -1,12 +1,12 @@
-# UniversityModelweeklytest
+# Instagram Post
 
 ## Framework and LanguageUsed
 1. SpringBoot 
 2. Java
 
 ## Annotations used:-
-In model package @Data @AllArgsConstructor @Entity @AllArgsConstructor @NoArgsConstructor @Id
-In controller package 2.@RestController @RequestMapping @Autowired @GetMapping @PostMapping 
+* In model package @Data @AllArgsConstructor @Entity @AllArgsConstructor @NoArgsConstructor @Id
+* In controller package 2.@RestController @RequestMapping @Autowired @GetMapping @PostMapping 
 
 ## Controller package :-
 * There are two controller
